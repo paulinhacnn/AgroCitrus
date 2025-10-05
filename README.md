@@ -154,11 +154,13 @@ python data_treino.py --csv dados.csv --root "Soil types" --batch 4 --epochs 150
 
 ## Reference
 We used this image with the objective of identifying and analyzing the soil types on Mars. Accordingly, the images referenced in the links were used as a source of inspiration.
-```
+
 [https://mars.nasa.gov/raw_images/35902/?site=msl](https://mars.nasa.gov/raw_images/35902/?site=msl)
+[https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL0_0872_0744352315_223EBY_N0422700ZCAM08875_0630LMJ](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL0_0872_0744352315_223EBY_N0422700ZCAM08875_0630LMJ)
 
 ## Tools
 kaggle and miro
+
 
 
 
