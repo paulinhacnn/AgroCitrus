@@ -31,7 +31,7 @@ CSV file with the following columns:
 
 The main **Haralick features** are sets of statistical properties extracted from the **Gray-Level Co-occurrence Matrix (GLCM)**.
 
-These features describe the **texture** of an image — the pattern of gray-level or color variations in a region — and are widely used in **image analysis**, **computer vision**, **pattern classification**, **segmentation**, **medical imaging**, and **remote sensing**.
+These features describe the **texture** of an image, the pattern of gray-level or color variations in a region, and are widely used in **image analysis**, **computer vision**, **pattern classification**, **segmentation**, **medical imaging**, and **remote sensing**.
 
 
 ### How It Works
@@ -65,7 +65,7 @@ From this matrix, several **statistical measures** are computed to describe the 
 
 ## X-means with BIC
 
-The **X-means algorithm** is an extension of **K-means** that solves its main limitation — the need to **manually define the number of clusters** before running the algorithm.
+The **X-means algorithm** is an extension of **K-means** that solves its main limitation, the need to **manually define the number of clusters** before running the algorithm.
 
 X-means automatically determines the **optimal number of clusters** using a statistical method called the **Bayesian Information Criterion (BIC)**.
 
@@ -150,5 +150,6 @@ python data_treino.py --csv dados.csv --root "Soil types" --batch 4 --epochs 150
 
 ## Project Web Page
 [Access AgroCitrus](https://rogkk.github.io/AgroCitrusPage)
+
 
 
