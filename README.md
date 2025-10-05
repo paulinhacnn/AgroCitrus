@@ -149,4 +149,5 @@ python data_treino.py --csv dados.csv --root "Soil types" --batch 4 --epochs 150
 ```
 
 ## Project Web Page
-[Access AgroCitrusPage](https://rogkk.github.io/AgroCitrusPage)
+
+
