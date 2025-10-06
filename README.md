@@ -136,11 +136,6 @@ Install all required Python libraries:
 pip install -r requirements.txt
 ```
 
-### Prepare (Pre-processing)
-
-```bash
-python prepare_dataset.py
-```
 
 ### Training
 
@@ -160,6 +155,7 @@ We used this image with the objective of identifying and analyzing the soil type
 
 ## Tools
 kaggle and miro
+
 
 
 
